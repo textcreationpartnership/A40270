@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The summ of such particulars as are charged against George Fox in the mittimus by which he stands committed together with George Fox his answer to the said particulars.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40270</idno>
+            <idno type="STC">Wing F1923</idno>
+            <idno type="STC">ESTC R26723</idno>
+            <idno type="EEBO-CITATION">09527495</idno>
+            <idno type="OCLC">ocm 09527495</idno>
+            <idno type="VID">43497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The summ of such particulars as are charged against George Fox in the mittimus by which he stands committed together with George Fox his answer to the said particulars.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: George Fox.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691.</term>
+               <term>Society of Friends --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43497:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>THE SUMM OF SUCH PARTICULARS AS ARE Charged againſt <hi>George Fox</hi> in the Mittimus by which he ſtands Committed; Together with <hi>George Fox</hi> his anſwer to the ſaid Particulars.</head>
+            <p>
+               <hi>We</hi> Thomas Cummings <hi>and</hi> Thomas Green <hi>being ſent by</hi> George Fox (<hi>now Priſoner in the Common Goal at</hi> Lancaſter) <hi>to the Goaler to deſire a Coppy of his Mittimus, that he might know wherefore he was committed; the Goaler anſwered that be could not give a Coppy of it, for another had been Fined for the like, but he gave us liberty to read it over, wherein was char<g ref="char:EOLhyphen"/>ged againſt him (to the beſt of our remembrance) to this effect,</hi> That he was a Perſon ſuſpected to be a Diſturber of the Peace of this Nation, a Common Enemy to his Majeſty our Lord the King, a chief upholder of the <hi>Quakers</hi> Sect, and that he, together with others of his Phanatique Opi<g ref="char:EOLhyphen"/>on, have of late endeavoured to raiſe Inſurrections in this part of the Country, to the imbruing the Nation in Blood, <hi>with command to the Goaler</hi> to keep him in ſafe cu<g ref="char:EOLhyphen"/>ſtody, till he ſhould be releaſed by Order from the King and Parliament.</p>
+            <p>I Am a Priſoner at <hi>Lancaſter</hi> by Juſtice <hi>Porter;</hi> a Coppy of the Mittimus I cannot get, but ſuch like expreſſions are found in it, which are untruths. Firſt, <hi>That I am ſuſpected to be a diſturber of the Nations Peace, unto the King an E<g ref="char:EOLhyphen"/>nemie,
+<pb n="2" facs="tcp:43497:2"/>
+                  <!-- PDF PAGE 41 -->and that I and others of my company ſhould raiſe Inſur<g ref="char:EOLhyphen"/>rections to imbrew the Nation in Blood.</hi> All which is falſe, and I do deny every word in it to be Truth, for through the Nation have I been tryed of theſe things formerly. In the dayes of <hi>Oliver</hi> I was taken up <hi>as raiſing Arms againſt him,</hi> which was falſe, <hi>and I was taken up to London, and kept Pri<g ref="char:EOLhyphen"/>ſoner till I was brought before him,</hi> and when things were cleared, and <hi>I denied drawing a Carnal Weapon againſt him, or any man upon the Earth,</hi> for my Weapons are <hi>Spiri<g ref="char:EOLhyphen"/>tual,</hi> that takes away the occaſion of <hi>War,</hi> and which leads into <hi>Peace.</hi> And after that Major <hi>Seily</hi> in <hi>Cornwall</hi> who ſent me to Priſon, when I was brought before the Judge, <hi>ſaid, that I took him aſide, and told him I could raiſe four thou<g ref="char:EOLhyphen"/>ſand men in one hour,</hi> which was falſe and a lye (and was then proved ſo to him) for ſuch words I never ſpake to him; I never was found in any <hi>Plots,</hi> nor ever took any <hi>Engagement;</hi> nor never took any <hi>Oath,</hi> nor never learned <hi>War Poſtures,</hi> and ſo theſe things which come from Major <hi>Porter,</hi> who is lately appointed to be a <hi>Juſtice,</hi> who hath wanted Power formerly to Exerciſe his <hi>Cruelty</hi> againſt us, which is but the Wickedneſſe of the <hi>Old Enemie;</hi> for the peace of this <hi>Nation</hi> I am not a diſturber of, but ſeeks the peace of it, and of all men, and ſtands for all Nations and mens peace upon the earth; And wiſh that all Nations and Men knew my <hi>Innocency</hi> in theſe things. And whereas Major <hi>Porter</hi> ſaith, <hi>I am a Common Enemy to the King,</hi> that is falſe, for my love is to him and all men (though Enemies to God, and to themſelves and to me) and I can ſay it is of the Lord that he is come in <hi>to bring down many unrighteouſly ſet up,</hi> of which I had a ſight before he came. Its much that he ſhould ſay I am an Enemy to the King, for which I have no <hi>Reaſon,</hi> he having done nothing againſt me; yet I have been Impriſoned and Perſecuted this eleven or twelve years, by them that have been againſt the Kings Father, which was the Party that <hi>Porter</hi> was made a <hi>Major</hi> by, <hi>and bore Arms for,</hi> and not them that were for the King; <hi>I was never a Common Enemy to the King,</hi> nor to any mans Perſon upon the Earth, but I am in the Love that fulfills the Law, <hi>and thinks no evil,</hi> but Loves Enemies, and would have the
+<pb n="3" facs="tcp:43497:2"/>
+               <!-- PDF PAGE 41 -->
+               <hi>King</hi> ſaved, and come to the <hi>knowledge of the Truth,</hi> and brought into the <hi>Fear of the Lord,</hi> and to receive his Wiſdom from above, by which all things were Made and Created, that with that Wiſdom he may Order all things to the <hi>Glory of God</hi> by whom it was Created. I ow nothing to the <hi>King</hi> but <hi>Love,</hi> nor to any man, and <hi>Love</hi> doth not <hi>kill</hi> but fufill the <hi>Law.</hi>
+            </p>
+            <p>And <hi>Major Porter</hi> further ſaith, <hi>That he together with others of his Phanatique Opinion, hath of late endeavoured to raiſe Inſur<g ref="char:EOLhyphen"/>rections in this part of the Countrey, to the imbrewing this Nation in Blood.</hi> This is falſe, to theſe things I am as a Child, and knows nothing of them, and never learned the <hi>poſtures of War,</hi> and my VVeapons are <hi>Spiritual, and not Carnal,</hi> and with Carnal VVeapons I do not fight; and my <hi>Kingdom is not of this World</hi> ſaith Chriſt, and thoſe that follows Chriſt in the Spirit, the Captain of their Salvation denies the Carnal Weapons, who denies drawing any Carnal VVeapon againſt the <hi>King</hi> or the <hi>Parliament,</hi> or any man upon the Earth, yet we have theſe Lies and Slanders laid upon us who are come to the <hi>end of the Law,</hi> who loves <hi>Enemies</hi> and wreſtles not with Fleſh and Blood, and am in that which ſaves mens lives, and I witneſſe againſt all <hi>Murtherous plots,</hi> and all ſuch as would <hi>imbrew the Nation in Blood,</hi> which be not in Peace, and I am innocent of all theſe things and knows them not, and it is not <hi>in my Heart</hi> to have any mans Life deſtroyed upon the Earth.</p>
+            <p>And <hi>Major Porter</hi> told me, he impriſoned me <hi>to prevent a danger, becauſe times were troubleſome, and we had meetings by hundreds.</hi> I told him we had kept our Meetings in moſt parts of the Nation to wait upon the Lord, but neither he nor any man in the Nation had any occaſion to ſuſpect me of any <hi>Tumultuous Meetings,</hi> or to raiſe any Tumult in the Na<g ref="char:EOLhyphen"/>tion, who am a peaceable man, and deſires the <hi>peace and good of all,</hi> and had not gone from the place where I was apprehended, paſſing <hi>two Miles</hi> in a <hi>Moneth</hi> ſince I came in<g ref="char:EOLhyphen"/>to the Countrey.</p>
+            <p>And <hi>Major Porter</hi> proffered the <hi>Oath of Allegiance</hi> to me to take, and I told him I never took Oath in my life of one ſide or the other, againſt or for my ſelf, but did abide in
+<pb n="4" facs="tcp:43497:3"/>
+               <!-- PDF PAGE 42 -->Chriſts Doctrine, who ſaith, <hi>Swear not at all,</hi> and did ſuf<g ref="char:EOLhyphen"/>fer in that; And all people that have but the leaſt ſober<g ref="char:EOLhyphen"/>neſſe in them may ſee this to be but Malice and Envy of Major <hi>Porter</hi> in impriſoning and perſecuting of me, and laying ſuch things to my charge (up and down the Coun<g ref="char:EOLhyphen"/>try) which I am innocent of as a child, and ſo I am ordered to be kept priſoner till I be delivered <hi>by order from the King or Parliament.</hi>
+            </p>
+            <p>Theſe things are to be delivered to you to be laid before you to conſider of before you act any thing, that you may in the wiſdom of the Lord conſider the intent and end of mens ſpirits, leaſt you act the thing that will bring the hand of the Lord againſt you, and upon you as many have done before you that have been in Authority, <hi>whom God hath o<g ref="char:EOLhyphen"/>verthrown,</hi> whom we truſt unto, and fear, and cry unto <hi>day and night,</hi> who hath heard us, and doth hear us, and will hear us, <hi>and avenge our cauſe,</hi> for <hi>much innocent blood hath been ſhed,</hi> and many hath been perſecuted <hi>to death,</hi> by ſuch as have been in Authority <hi>before you,</hi> who turned againſt the juſt, whom the Lord hath <hi>vomitted out;</hi> Therefore conſider with your ſelves, for now you have the day.</p>
+            <closer>
+               <signed>
+                  <hi>From the Innocent, a Sufferer in Bonds, and cloſe priſoner in</hi> Lancaſter <hi>Caſtle, called George Fox.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:43497:3"/>
+            <!-- PDF PAGE 42 -->
+         </div>
+      </body>
+   </text>
+</TEI>
